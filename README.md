@@ -4,12 +4,12 @@
 Resposta : 66
 
 ## Numero 4:
-a = 9
-b = 128
-c = 49
-d=100
-e=13
-f= Sem Resolução
+a = 9.
+b = 128.
+c = 49.
+d=100.
+e=13.
+f= Sem Resolução.
 
 ## Numero 5
 Primeiro: 
